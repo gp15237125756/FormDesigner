@@ -1,6 +1,6 @@
 Jeecg online form extension
 ================
-- this project refactor online form design portion for JEECG framework,also amend the original table design fuction which only support id as primary key.
+- this project refactor online form design portion for JEECG framework,also amend the original table design function which only support id as primary key.
 - the update comprise one to many,single table,along with one to one design
 
 
